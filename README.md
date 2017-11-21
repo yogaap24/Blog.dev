@@ -1,2 +1,1 @@
-# Blog.dev
-This My Platform Blog
+Blog.dev
